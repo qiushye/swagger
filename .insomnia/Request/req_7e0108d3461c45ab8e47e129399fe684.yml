@@ -1,0 +1,21 @@
+_id: req_7e0108d3461c45ab8e47e129399fe684
+type: Request
+parentId: wrk_d7dae7a91fa0419d831a4d5372b561e1
+modified: 1681541032146
+created: 1681449211631
+url: insomnia.rest
+name: New Request
+description: ""
+method: GET
+body: {}
+parameters: []
+headers: []
+authentication: {}
+metaSortKey: -1681449211631
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global
